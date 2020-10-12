@@ -1,0 +1,26 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "A CLI application for managing employees.",
+    "main": "index.js",
+    "scripts": {
+      "test": "no"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/justinpricer/employee-manager.git"
+    },
+    "author": "Justin Pricer",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/justinpricer/employee-manager/issues"
+    },
+    "homepage": "https://github.com/justinpricer/employee-manager#readme",
+    "dependencies": {
+      "ascii-art-font": "^1.0.2",
+      "console.table": "^0.10.0",
+      "dotenv": "^8.2.0",
+      "inquirer": "^7.0.3",
+      "mysql": "^2.17.1"
+    }
+  }
