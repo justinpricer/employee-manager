@@ -19,9 +19,9 @@ Create a new file called <code>.env</code> that will store your MySQL server inf
 Format the contents of .env as follows, substituting your MySQL server information where applicable:
 
 <pre>DB_HOST=localhost</pre>
-<pre>DB_PORT=3306</pre>
-<pre>DB_USER=username</pre>
-<pre>DB_PASS=password</pre>
+DB_PORT=3306</pre>
+DB_USER=username</pre>
+DB_PASS=password</pre>
 Import the database schema and optional demo data:
 
 # login to mysql
