@@ -1,9 +1,9 @@
 # employee-manager
 
-##Summary
+## Summary
 Employee Manager is a CLI app for managing human resources. You can add, edit, and delete employees, departments, and roles, and manage the associations between them. See the database schema for more information about how it all works together.
 
-##Prerequisites
+## Prerequisites
 NodeJS
 MySQL
 Installing
@@ -13,7 +13,7 @@ git clone https://github.com/justinpricer/employee-manager.git
 cd employee-manager
 npm i
 Create a new file called <code>.env</code> that will store your MySQL server information:
-<div class="highlight highlight-source-shell"><pre>touch .env</pre></div>
+
 <pre>touch .env</pre>
 </div>
 Format the contents of .env as follows, substituting your MySQL server information where applicable:
