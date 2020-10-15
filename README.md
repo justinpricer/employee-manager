@@ -24,14 +24,14 @@ DB_USER=username
 DB_PASS=password</pre>
 Import the database schema and optional demo data:
 
-# login to mysql
+<pre>#login to mysql
 mysql -u username -p
 
-# import the required schema
+#import the required schema
 source schema.sql
 
-# import the optional demo data
+#import the optional demo data
 source seeds.sql
-Start the application by using the following command:
+Start the application by using the following command:</pre>
 
 node index.js
