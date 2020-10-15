@@ -9,9 +9,9 @@ MySQL
 Installing
 Run the following commands in your preferred CLI to install the Node package and all dependencies:
 
-git clone https://github.com/justinpricer/employee-manager.git
+<pre>git clone https://github.com/justinpricer/employee-manager.git
 cd employee-manager
-npm i
+npm i</pre>
 Create a new file called <code>.env</code> that will store your MySQL server information:
 
 <pre>touch .env</pre>
