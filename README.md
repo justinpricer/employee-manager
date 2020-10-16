@@ -37,7 +37,7 @@ Start the application by using the following command:</pre>
 node index.js
 
 ## Technology Used
-<li>JavaScript/li>
-<li>NodeJS/li>
-<li>MySQL/li>
+<li>JavaScript</li>
+<li>NodeJS</li>
+<li>MySQL</li>
 <li>Github</li>
