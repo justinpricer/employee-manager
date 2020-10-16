@@ -7,6 +7,7 @@ Employee Manager is a CLI app for managing human resources. You can add, edit, a
 <li>NodeJS</li>
 <li>MySQL</li>
 ## Installing
+
 Run the following commands in your preferred CLI to install the Node package and all dependencies:
 
 <pre>git clone https://github.com/justinpricer/employee-manager.git
