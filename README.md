@@ -35,3 +35,9 @@ source seeds.sql
 Start the application by using the following command:</pre>
 
 node index.js
+
+## Technology Used
+JavaScript
+NodeJS
+MySQL
+Github
