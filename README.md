@@ -4,8 +4,8 @@
 Employee Manager is a CLI app for managing human resources. You can add, edit, and delete employees, departments, and roles, and manage the associations between them. See the database schema for more information about how it all works together.
 
 ## Prerequisites
-NodeJS
-MySQL
+<li>NodeJS</li>
+<li>MySQL</li>
 Installing
 Run the following commands in your preferred CLI to install the Node package and all dependencies:
 
